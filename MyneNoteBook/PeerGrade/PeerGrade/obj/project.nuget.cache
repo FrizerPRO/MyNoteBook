@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "O3wGsMs3xig2Vcc29vqynSPttMcNassxPVePpljQEX0lNWQS2i3yc+eHHzDicni/WVKQZUVTzokf87WPbkGggA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\loxam\\source\\repos\\PeerGrade\\PeerGrade\\PeerGrade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loxam\\.nuget\\packages\\fctb\\2.16.24\\fctb.2.16.24.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"FCTB 2.16.24\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "FCTB",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

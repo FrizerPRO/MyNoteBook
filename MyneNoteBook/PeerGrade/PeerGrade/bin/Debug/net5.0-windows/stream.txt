@@ -1,0 +1,5 @@
+Компилятор Microsoft (R) Visual C# 2008 версии 3.5.30729.9141
+для Microsoft (R) .NET Framework версии 3.5
+(C) Корпорация Майкрософт (Microsoft Corp.). Все права защищены.
+
+c:\Users\loxam\Desktop\c++\555.cs(22,21): error CS0117: 'System.Console' не содержит определение для 'riteLine'
